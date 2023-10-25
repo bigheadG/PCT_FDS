@@ -117,3 +117,10 @@ picture right: process_2 output
  ## Parameter for Statemachine:
     
   ![FDS-GREENLINE](https://user-images.githubusercontent.com/2010446/209904267-6d906254-8735-42fc-b70e-e1089ee1ae7f.jpg)
+
+  ##FDS falling Green
+![fds_green](https://github.com/bigheadG/PCT_FDS/assets/2010446/6e19c655-b960-41f6-a69c-404c1ff8c366)
+
+ ##FD falling Red
+ ![fds_red](https://github.com/bigheadG/PCT_FDS/assets/2010446/b37ed25f-fdb5-4d2e-be5d-a37f63245af5)
+
